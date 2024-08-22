@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,600&display=swap');
+html,body{
+    font-family: 'Bricolage Grotesque', sans-serif ;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 66px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.row{
+    margin: 5px 5px;
+}
+.row input{
+    padding: 16px 26px;
+    margin: 0;
+    border: 2px solid rgb(243, 30, 30);
+    border-radius: 15px;
+    font-size: 19.2px;
+}
+.bg-cyan{
+    background: rgb(105, 182, 145);
+    color:  rgb(7, 24, 4);
+}
+.smalll{
+    font-weight:bold;
+}
+.t-center{
+    text-align: center;
+}
+.back-red{
+    background: rgb(93, 168, 179);
+}
+.margin-auto{
+    margin: auto;
+}
+.flex{
+    display:flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.lav{
+    background: rgb(66, 160, 102);
+    color: rgb(221, 243, 100);
+    font-weight:bold;
+}
+.pad{
+    padding: 10px;
+}
+
